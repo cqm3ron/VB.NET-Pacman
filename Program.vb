@@ -1,5 +1,6 @@
-Imports System
+'https://gameinternals.com/understanding-pac-man-ghost-behavior may be my saviour
 
+Imports System
 Module Program
     Sub Main(args As String())
         Dim grid() As Integer = {27, 30} 'i counted this manually
